@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Command
+comment0.text=\r\n\ Classe\ Command\ -\ une\ commande\ de\ mon\ jeu.\r\n\ @author\ Taki\ \r\n\ @version\ 2024\r\n
+comment1.params=pCommandWord\ pSecondWord
+comment1.target=Command(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Command\ est\ le\ constructeur\ de\ la\ classe.\r\n\ @param\ pCommandWord\ est\ un\ String,\ c'est\ la\ commande\ \r\n\ \ \ \ \ entr\u00E9e\ par\ l'utilisateur.\r\n\ @param\ pSecondWord\ est\ un\ String,\ c'est\ le\ second\ mot\ entr\u00E9e\r\n\ \ \ \ \ par\ l'utilisateur\ qui\ permet\ de\ nous\ renseigner\r\n\ \ \ \ \ sur\ la\ direction\ \u00E0\ prendre.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCommandWord()
+comment2.text=\r\n\ getCommandWord\ est\ un\ accesseur\ de\ l'attribut\ aCommandWord.\r\n\ @return\ la\ commande.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getSecondWord()
+comment3.text=\r\n\ getSecondWord\ est\ un\ accesseur\ de\ l'attribut\ aSecondWord.\r\n\ @return\ le\ second\ mot\ \r\n
+comment4.params=
+comment4.target=boolean\ hasSecondWord()
+comment4.text=\r\n\ hasSecondWord\ est\ une\ fonction\ qui\ retourne\ s'il\ y\ a\ un\ second\ mot\r\n\ \ \ \ \ entr\u00E9e\ ou\ non.\r\n\ @return\ true\ ou\ false.\r\n
+comment5.params=
+comment5.target=boolean\ isUnknown()
+comment5.text=\r\n\ isUnknown\ est\ une\ fonction\ qui\ retourne\ s'il\ y\ a\ un\ mot\ de\ commande\ \r\n\ \ \ \ \ entr\u00E9e\ ou\ non.\r\n\ @return\ true\ ou\ false.\r\n
+numComments=6

@@ -1,0 +1,5 @@
+help
+go down
+eat
+look
+quit

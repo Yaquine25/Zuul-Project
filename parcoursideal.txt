@@ -1,0 +1,31 @@
+take list_of_ingredients
+go down
+take crystal
+go east
+take stones
+go south
+drop stones
+charge crystal
+go south
+take fern
+go west
+take magic_beans
+eat magic_beans
+inventory
+go south
+take toad_slime
+go north
+go east
+go north
+drop fern
+drop toad_slime
+go north
+go east
+go south
+take enchanted_rose
+go south
+take rainbow_piece
+fire crystal
+drop enchanted_rose
+drop rainbow_piece
+quit

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CommandWords
+comment0.text=\r\n\ La\ classe\ CommandWords\ contient\ les\ mots\ de\ commande\ accept\u00E9s\ par\ le\ jeu.\r\n\ @author\ Taki\ \r\n\ @version\ 2024\r\n
+comment1.params=pMot
+comment1.target=boolean\ isCommand(java.lang.String)
+comment1.text=\r\n\ La\ m\u00E9thode\ isCommand\ permet\ de\ v\u00E9rifier\ si\ les\r\n\ mots\ de\ commandes\ entr\u00E9es\ en\ param\u00E8tre\ sont\ valides\ ou\ non.\r\n\ @param\ pMot\ est\ un\ String\ qui\ correspond\ au\ mot\ entr\u00E9e\ par\ l'utilisateur.\r\n\ @return\ la\ validit\u00E9\ du\ mot\ de\ commande.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCommandList()
+comment2.text=\r\n\ La\ fonction\ renvoie\ les\ commandes\ valides.\r\n\ @return\ toutes\ les\ commandes\ valides.\r\n
+numComments=3

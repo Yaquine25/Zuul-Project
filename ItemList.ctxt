@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ItemList
+comment0.text=\r\n\ ItemList\ \r\n\r\n\ @author\ Taki\r\n\ @version\ 2024\r\n
+comment1.params=
+comment1.target=ItemList()
+comment1.text=\r\n\ ItemList\ est\ le\ constructeur\ par\ d\u00E9faut\ de\ la\ classe.\r\n
+comment2.params=pIn
+comment2.target=Item\ getItem(java.lang.String)
+comment2.text=\r\n\ getItem\ est\ un\ accesseur\ des\ items\ de\ la\ liste.\r\n\ @param\ pIn\ String\ le\ nom\ d'un\ item.\r\n\ @return\ l'item\ de\ la\ liste.\r\n
+comment3.params=pName\ pItem
+comment3.target=void\ addItem(java.lang.String,\ Item)
+comment3.text=\r\n\ addItem\ est\ une\ proc\u00E9dure\ qui\ permet\ d'ajouter\ un\ item\ dans\ la\ liste.\r\n\ @param\ pName\ est\ le\ nom\ de\ l'item.\r\n\ @param\ pItem\ est\ l'objet\ item.\r\n
+comment4.params=pName
+comment4.target=void\ removeItem(java.lang.String)
+comment4.text=\r\n\ removeItem\ est\ une\ proc\u00E9dure\ qui\ permet\ de\ supprimer\ un\ item\ de\ la\ liste.\r\n\ @param\ pName\ est\ le\ nom\ de\ l'item.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getItemString()
+comment5.text=\r\n\ getItemString\ est\ une\ fonction\ qui\ renvoie\ les\ items\ pr\u00E9sent\ dans\ la\ liste.\r\n\ @return\ un\ String\ contenant\ le\ ou\ les\ item(s)\ de\ la\ liste.\r\n
+numComments=6

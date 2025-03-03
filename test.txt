@@ -1,0 +1,11 @@
+back 
+go y 
+go down 
+go east 
+go south 
+back 
+look 
+back 
+back 
+help 
+quit

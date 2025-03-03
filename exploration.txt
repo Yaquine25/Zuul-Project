@@ -1,0 +1,30 @@
+take list_of_ingredients
+go down
+look
+take crystal
+charge crystal
+go east
+take stones
+go east
+go south
+look
+take enchanted_rose
+go south
+go south
+help
+go north
+go north
+fire crystal
+go east
+eat
+drop stones
+look
+go south
+inventory
+go south
+go west
+take magic_beans
+eat magic_beans
+go south
+go north
+quit

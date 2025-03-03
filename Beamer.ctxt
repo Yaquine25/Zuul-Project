@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Beamer
+comment0.text=\r\n\ La\ classe\ Beamer\r\n\r\n\ @author\ Taki\r\n\ @version\ 2024\r\n
+comment1.params=pName\ pDescription\ pWeight\ pRoom
+comment1.target=Beamer(java.lang.String,\ java.lang.String,\ int,\ Room)
+comment1.text=\r\n\ Beamer\ est\ le\ constructeur\ de\ la\ classe\r\n\ @param\ pName\ est\ le\ nom\ de\ l'item.\r\n\ @param\ pDescription\ est\ la\ description\ de\ l'item.\r\n\ @param\ pWeight\ est\ le\ poids\ de\ l'item.\r\n\ @param\ pRoom\ est\ la\ pi\u00E8ce\ o\u00F9\ le\ beamer\ est\ pos\u00E9.\r\n
+comment2.params=
+comment2.target=Room\ getRoomCharged()
+comment2.text=\r\n\ getRoomCharged\ est\ l'accesseur\ de\ la\ pi\u00E8ce\ charg\u00E9.\r\n\ @return\ aRoomCharged\ la\ pi\u00E8ce\ charg\u00E9.\r\n
+comment3.params=
+comment3.target=boolean\ isCharged()
+comment3.text=\r\n\ isCharged\ est\ l'accesseur\ du\ boolean\ aIsCharged.\r\n\ @return\ aIsCharged\ true\ ou\ false.\r\n
+comment4.params=pRoomCharged
+comment4.target=void\ charge(Room)
+comment4.text=\r\n\ charge\ permet\ de\ modifier\ la\ pi\u00E8ce\ charg\u00E9\ et\ de\ placer\ le\ boolean\ \u00E0\ true.\r\n\ @param\ pRoomCharged\ est\ la\ pi\u00E8ce\ charg\u00E9.\r\n
+comment5.params=
+comment5.target=void\ fire()
+comment5.text=\r\n\ fire\ permet\ de\ remettre\ le\ boolean\ \u00E0\ false.\r\n
+numComments=6

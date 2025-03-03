@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ Classe\ Game\ -\ D\u00E9marrage\ du\ jeu\ Magic\ Garden.\r\n\ @author\ Taki\r\n\ @version\ 2024\r\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\r\n\ Cr\u00E9er\ le\ jeu\ et\ l'interface.\r\n
+numComments=2
